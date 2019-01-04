@@ -1,4 +1,4 @@
-# Running Debian on OpenWrt
+# Running Debian on DD-WRT
 My chroot setup for running Debian on DD-WRT
 
 ## Requirements
