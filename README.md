@@ -12,8 +12,8 @@ I currently have Debian 9.8 armel image running on the following hardware:
 ## Startup
 To run at startup:
 * Choose services:
-** USB
-** Core USB Support - Enable
-** USB Storage Support - Enable
-** Automatic Drive Mount - Enable
-** Run-on-mount Script Name - /tmp/mnt/[partition]/[debian directory]/[directory where project files stored]/flossware.sh.  As an example:  /tmp/mnt/sda1/debian_armel/flossware/flossware.sh
+* USB
+* Core USB Support - Enable
+* USB Storage Support - Enable
+* Automatic Drive Mount - Enable
+* Run-on-mount Script Name - /tmp/mnt/[partition]/[debian directory]/[directory where project files stored]/flossware.sh.  As an example:  /tmp/mnt/sda1/debian_armel/flossware/flossware.sh
