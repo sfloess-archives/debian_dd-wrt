@@ -10,9 +10,7 @@ I currently have Debian 9.8 armel image running on the following hardware:
 * [Linksys EA6300](https://www.linksys.com/us/support-product?pid=01t80000003KTikAAG)
 
 ## Startup
-To run at startup:
-* Choose services:
-* USB
+To run at startup, connect to the DD-WRT web UI and navigate to Services/USB.  Choose/enter the following:
 * Core USB Support - Enable
 * USB Storage Support - Enable
 * Automatic Drive Mount - Enable
